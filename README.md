@@ -11,5 +11,3 @@ pnpm storybook
 ## 启动应用
 
 pnpm dev
-
-## 目录结构
